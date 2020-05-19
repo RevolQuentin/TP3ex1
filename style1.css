@@ -60,15 +60,15 @@ div.main{
 }
 
 div.main>h3{
-    text-transform: capitalize;
+    text-transform: uppercase;
     letter-spacing: 0.2em;
     color: #7A0002;
     border-top-width:1px;
     border-top-style: solid;
     border-left-width: 3px;
     border-left-style: solid;
-    padding-left: 1em;
-    padding-top: 2.5em;
+    margin-left: 1em;
+    margin-top: 2.5;
 }
 div.hours{
     background-color: #F6F3ED;
@@ -78,14 +78,7 @@ div.hours{
     border-style: solid;
 }
 
-div.hours{
-    background-color: #F6F3ED;
-    margin: 2.5%;padding: 1em;
-    border-color: #7A0002;
-    border-style: solid;
-}
-
-div.hours>p{
-    color:#783F27;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+span.day {
+    color: #783F27;
+    font-family: Verdana;
 }
