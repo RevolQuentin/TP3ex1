@@ -57,6 +57,7 @@ div.main{
     border-radius: 25px;
     margin:  2.5%;
     padding: 1em;
+    margin-top: 5em;
 }
 
 div.main>h3{
@@ -68,7 +69,8 @@ div.main>h3{
     border-left-width: 3px;
     border-left-style: solid;
     margin-left: 1em;
-    margin-top: 2.5;
+    margin-top: 5em;
+
 }
 div.hours{
     background-color: #F6F3ED;
